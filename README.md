@@ -34,6 +34,17 @@
 <br>
 
 ---
+## 📜 Certifications
+
+🏅 Machine Learning
+
+🏅 Python Programming
+
+🏅 Data Science
+
+🏅 AI Fundamentals
+
+🏅 Full Stack Development
 
 # 🚀 Current Focus
 
@@ -56,6 +67,15 @@
 </p>
 
 ---
+## 📈 Weekly Development Breakdown
+
+Python        ████████████ 60%
+
+Machine Learning ████████ 20%
+
+Web Development █████ 10%
+
+Reading         ███ 10%
 
 # 🏆 Featured Projects
 
@@ -78,6 +98,7 @@ Predicts student performance using classification algorithms.
 Combining Machine Learning with Full Stack Development.
 
 ---
+
 
 # 📈 GitHub Analytics
 
@@ -112,6 +133,11 @@ Combining Machine Learning with Full Stack Development.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanashafique-dev&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
 </p>
+![](https://img.shields.io/github/followers/sanashafique-dev?style=for-the-badge)
+
+![](https://img.shields.io/github/stars/sanashafique-dev?style=for-the-badge)
+
+![](https://img.shields.io/github/last-commit/sanashafique-dev/sanashafique-dev?style=for-the-badge)
 
 ---
 ## 🐍 Contribution Snake
@@ -141,6 +167,15 @@ Combining Machine Learning with Full Stack Development.
 </p>
 
 ---
+## ☕ Fun Facts
+
+💙 Coffee + Coding = ❤️
+
+🤖 Love building AI
+
+🌙 Night Owl Developer
+
+🚀 Always learning something new
 
 # 💡 Quote
 
