@@ -116,6 +116,13 @@ Combining Machine Learning with Full Stack Development.
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sanashafique-dev/sanashafique-dev/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 # 🌐 Connect With Me
 
