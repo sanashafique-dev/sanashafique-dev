@@ -110,9 +110,7 @@ Combining Machine Learning with Full Stack Development.
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanashafique-dev&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=sanashafique-dev&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
 </p>
 
 ---
