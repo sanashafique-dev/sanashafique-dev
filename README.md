@@ -1,24 +1,155 @@
-# 💫 About Me:
-<br><br>Hi, I'm Sana Shafique!<br><br>🎓 BS Computer Science Student (6th Semester Completed)<br><br>💻 Passionate about Full Stack Development, Artificial Intelligence, and Machine Learning<br><br>🤖 Building AI-powered applications using Python, Machine Learning, and Data Analysis<br><br>🌐 Learning Full Stack Web Development and creating modern websites with WordPress, WooCommerce, Elementor, HTML, CSS, JavaScript, and Python<br><br>📊 Interested in Data Science, Predictive Modeling, and Real-World AI Solutions<br><br>🚀 Currently working on projects that combine AI with Web Technologies<br><br>📚 Always learning new technologies and improving my development skills<br><br>🎯 Goal: Become a Professional AI Engineer and Full Stack Developer while building impactful solutions
+```markdown
+<div align="center">
 
+# 👋 Hi, I'm Sana Shafique
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sana-shafique1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sana968sana@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Engineer+in+Progress+🤖;Machine+Learning+Developer;Full+Stack+Developer;Python+Enthusiast;Building+Real+World+AI+Solutions;Always+Learning+Something+New+🚀" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sanashafique-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sanashafique-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanashafique-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Sana%20Shafique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=55"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanashafique-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sanashafique-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" height="260" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+
+# 💫 About Me
+
+🎓 BS Computer Science Student
+
+🤖 Passionate about Artificial Intelligence & Machine Learning
+
+💻 Full Stack Developer
+
+🌐 Building AI Powered Web Applications
+
+📊 Love Data Science & Predictive Analytics
+
+🚀 Currently working on Machine Learning Projects
+
+🌱 Learning Deep Learning, FastAPI & Deployment
+
+🎯 Goal: Become a Professional AI Engineer capable of building intelligent products that solve real-world problems.
+
+<br>
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Machine Learning Projects
+- 🧠 Deep Learning
+- ⚡ FastAPI APIs
+- 📊 Data Analysis
+- 🌐 Full Stack Development
+- ☁️ AI Deployment
+- 📈 Model Optimization
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,git,github,vscode,html,css,js,bootstrap,fastapi,mysql,wordpress&perline=9"/>
+
+</p>
+
+---
+
+# 🏆 Featured Projects
+
+### 🏠 House Price Prediction
+Machine Learning model that predicts house prices using Regression Algorithms with Streamlit Deployment.
+
+---
+
+### 🩺 Disease Prediction System
+AI-based healthcare prediction system built using Machine Learning.
+
+---
+
+### 📊 Student Performance Prediction
+Predicts student performance using classification algorithms.
+
+---
+
+### 🌐 AI Powered Web Applications
+Combining Machine Learning with Full Stack Development.
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanashafique-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sanashafique-dev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanashafique-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanashafique-dev&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanashafique-dev&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sana-shafique1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sana968sana@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sanashafique-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"The future belongs to those who build intelligent solutions, not just software."**
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+Build+Something+Amazing+Together!;Happy+Coding!+🚀"/>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=sanashafique-dev&style=for-the-badge&color=0e75b6)
+
+</div>
+```
