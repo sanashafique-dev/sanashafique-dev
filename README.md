@@ -1,7 +1,9 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Sana Shafique
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Sana+Shafique;AI+Engineer+in+Progress+🤖;Machine+Learning+Developer;Full+Stack+Developer"/>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Engineer+in+Progress+🤖;Machine+Learning+Developer;Full+Stack+Developer;Python+Enthusiast;Building+Real+World+AI+Solutions;Always+Learning+Something+New+🚀" />
 
