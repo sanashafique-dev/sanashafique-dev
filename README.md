@@ -8,7 +8,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8E2DE2,100:FF6FD8&height=250&section=header&text=Sana%20Shafique&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 </div>
 
--<img align="right" alt="AI Girl Coding" width="330" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+---
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+---
 # 💫 About Me
 
 🎓 BS Computer Science Student
