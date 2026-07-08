@@ -224,15 +224,12 @@ Reading         ███ 10%
 
 > **"The future belongs to those who build intelligent solutions, not just software."**
 
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+Build+Something+Amazing+Together!;Happy+Coding!+🚀"/>
 
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanashafique-dev&label=Profile%20Views&color=8E2DE2&style=for-the-badge"/>
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sanashafique-dev&label=Profile%20Views&color=8E2DE2&style=for-the-badge"/>
+
 </div>
-```
