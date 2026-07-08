@@ -98,7 +98,7 @@ Predicts student performance using classification algorithms.
 Combining Machine Learning with Full Stack Development.
 
 ---
-
+# 📊 GitHub Stats: ![](https://github-readme-stats.shion.dev/api?username=sanashafique-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://streak-stats.demolab.com/?user=sanashafique-dev&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanashafique-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📈 GitHub Analytics
 
