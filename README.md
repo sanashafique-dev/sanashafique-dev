@@ -99,21 +99,6 @@ Combining Machine Learning with Full Stack Development.
 ---
 # 📊 GitHub Stats: ![](https://github-readme-stats.shion.dev/api?username=sanashafique-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://streak-stats.demolab.com/?user=sanashafique-dev&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanashafique-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanashafique-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sanashafique-dev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanashafique-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -130,7 +115,7 @@ Combining Machine Learning with Full Stack Development.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanashafique-dev&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanashafique-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 ![](https://img.shields.io/github/followers/sanashafique-dev?style=for-the-badge)
 
