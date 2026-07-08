@@ -9,7 +9,8 @@
 </div>
 ---
 
-<img align="right" alt="AI Girl Coding" width="330" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 # 💫 About Me
 
 🎓 BS Computer Science Student
