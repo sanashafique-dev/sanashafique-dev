@@ -115,15 +115,17 @@ Combining Machine Learning with Full Stack Development.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanashafique-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanashafique-dev&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
-![](https://img.shields.io/github/followers/sanashafique-dev?style=for-the-badge)
+<p align="center">
 
-![](https://img.shields.io/github/stars/sanashafique-dev?style=for-the-badge)
+<img src="https://img.shields.io/github/followers/sanashafique-dev?style=for-the-badge&logo=github"/>
 
-![](https://img.shields.io/github/last-commit/sanashafique-dev/sanashafique-dev?style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=sanashafique-dev&style=for-the-badge&color=blue"/>
 
----
+<img src="https://img.shields.io/github/last-commit/sanashafique-dev/sanashafique-dev?style=for-the-badge"/>
+
+</p>
 ## 🐍 Contribution Snake
 
 <p align="center">
