@@ -5,8 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+Engineer+in+Progress+🤖;Machine+Learning+Developer;Full+Stack+Developer;Python+Enthusiast;Building+Real+World+AI+Solutions;Always+Learning+Something+New+🚀" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Sana%20Shafique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=55"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8E2DE2,100:FF6FD8&height=250&section=header&text=Sana%20Shafique&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 </div>
 
 ---
