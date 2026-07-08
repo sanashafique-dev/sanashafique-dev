@@ -231,8 +231,8 @@ Reading         ███ 10%
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+Build+Something+Amazing+Together!;Happy+Coding!+🚀"/>
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=sanashafique-dev&style=for-the-badge&color=0e75b6)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanashafique-dev&label=Profile%20Views&color=8E2DE2&style=for-the-badge"/>
+</p>
 </div>
 ```
