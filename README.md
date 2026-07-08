@@ -76,25 +76,73 @@ Web Development █████ 10%
 
 Reading         ███ 10%
 
-# 🏆 Featured Projects
+# 🚀 Featured Projects
 
-### 🏠 House Price Prediction
-Machine Learning model that predicts house prices using Regression Algorithms with Streamlit Deployment.
+<table>
+<tr>
+<td width="50%">
 
----
+## 🚀 SpaceX Analytics Suite
 
-### 🩺 Disease Prediction System
-AI-based healthcare prediction system built using Machine Learning.
+🛰️ An end-to-end analytics project exploring SpaceX missions, stock prices, and Starlink growth trends through data analysis and visualization.
 
----
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+</p>
 
-### 📊 Student Performance Prediction
-Predicts student performance using classification algorithms.
+</td>
 
----
+<td width="50%">
 
-### 🌐 AI Powered Web Applications
-Combining Machine Learning with Full Stack Development.
+## 🏡 Real Estate Intelligence System
+
+📊 Built predictive analytics and explored housing trends using real-world USA real estate datasets.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 📱 Pakistan Social Media Usage Analysis 2026
+
+📈 Analyzed social media trends and user behavior using data science and machine learning techniques.
+
+<p>
+<img src="https://img.shields.io/badge/Data%20Science-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=flat-square"/>
+</p>
+
+</td>
+
+<td width="50%">
+
+## 🌐 E-Commerce Web Scraping Engine
+
+🛒 Automated data extraction from Amazon, Alibaba, Daraz, and eBay using Selenium and BeautifulSoup.
+
+<p>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-8B4513?style=flat-square"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <b>💡 Transforming Data into Intelligent Solutions with AI & Code 🤖✨</b>
+</p>
+
 
 # 📊 GitHub Stats
 
