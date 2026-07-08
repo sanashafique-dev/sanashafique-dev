@@ -9,7 +9,6 @@
 </div>
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
 # 💫 About Me
 
 🎓 BS Computer Science Student
