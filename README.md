@@ -202,6 +202,14 @@ Reading         ███ 10%
 </p>
 
 ---
+# 🌟 Beyond the Code
+
+💡 Turning ideas into intelligent solutions.
+
+📚 Lifelong learner and technology enthusiast.
+
+🚀 Passionate about building AI that creates real-world impact.
+
 ## ☕ Fun Facts
 
 💙 Coffee + Coding = ❤️
