@@ -115,7 +115,8 @@ Combining Machine Learning with Full Stack Development.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanashafique-dev&theme=algolia&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanashafique-dev&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanashafique-dev&theme=tokyonight"/>
 </p>
 <p align="center">
 
