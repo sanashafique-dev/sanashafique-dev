@@ -176,7 +176,7 @@ Reading         ███ 10%
 
 </p>
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
