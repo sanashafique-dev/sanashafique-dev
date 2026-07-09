@@ -227,8 +227,10 @@ Reading         ███ 10%
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Turning+Ideas+into+Intelligent+Solutions+🤖;Thanks+for+Visiting+My+Profile!+💜;Let's+Build+the+Future+with+AI+🚀"/>
+### 💜 Thanks for stopping by! 💜
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8E2DE2,100:FF6FD8&height=120&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF6FD8&center=true&vCenter=true&width=700&lines=Keep+Learning!+📚;Keep+Building!+💻;Keep+Dreaming!+✨"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A9E,50:FAD0C4,100:FBC2EB&height=120&section=footer"/>
 
 </div>
