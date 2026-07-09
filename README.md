@@ -227,10 +227,8 @@ Reading         ███ 10%
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+Build+Something+Amazing+Together!;Happy+Coding!+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Turning+Ideas+into+Intelligent+Solutions+🤖;Thanks+for+Visiting+My+Profile!+💜;Let's+Build+the+Future+with+AI+🚀"/>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sanashafique-dev&label=Profile%20Views&color=8E2DE2&style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8E2DE2,100:FF6FD8&height=120&section=footer"/>
 
 </div>
