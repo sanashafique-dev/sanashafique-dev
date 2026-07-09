@@ -230,7 +230,7 @@ Reading         ███ 10%
 ### 💜 Thanks for stopping by! 💜
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=8E2DE2&center=true&vCenter=true&width=900&lines=💜+Thanks+for+visiting+my+profile!;🤖+Turning+Ideas+into+Intelligent+Solutions!;🚀+Let's+Build+the+Future+with+AI!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=23&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=850&lines=💜+Thanks+for+stopping+by!;🌸+Keep+Learning,+Keep+Building,+Keep+Growing!;🤖+AI+%7C+Machine+Learning+%7C+Innovation;🚀+See+You+Again!"/>
 
 </div>
 </div>
