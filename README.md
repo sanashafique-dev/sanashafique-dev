@@ -58,115 +58,89 @@
 <h2 align="center">🚀 Skills & Technologies</h2>
 
 <table align="center">
-
-  <!-- Row 1 -->
   <tr>
-    <td align="center" width="100px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>C++
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br>C++
     </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br>Python
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/><br>Python
     </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br>MySQL
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/><br>MySQL
     </td>
-
-    <td align="center">
-      <img src="https://numpy.org/images/logo.svg" width="40" height="40"/><br>NumPy
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/><br>NumPy
     </td>
-
-    <td align="center">
-      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" height="40"/><br>Pandas
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/><br>Pandas
     </td>
-
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/><br>Matplotlib
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45"/><br>Matplotlib
     </td>
   </tr>
 
-  <!-- Row 2 -->
   <tr>
-    <td align="center">
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="30"/><br>Seaborn
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" width="45" height="45"/><br>Seaborn
     </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><br>TensorFlow
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/><br>TensorFlow
     </td>
-
-    <td align="center">
-      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40"/><br>Scikit-learn
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/><br>Scikit-Learn
     </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br>PyTorch
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/><br>PyTorch
     </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br>JavaScript
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/><br>JavaScript
     </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br>CSS3
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/><br>CSS3
     </td>
   </tr>
 
-  <!-- Row 3 -->
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br>HTML5
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/><br>HTML5
     </td>
-
-    <td align="center">
-      <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" width="60" height="30"/><br>Flask
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/><br>Flask
     </td>
-
-    <td align="center">
-      <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" height="40"/><br>Streamlit
+    <td align="center" width="96">
+      <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="45" height="45"/><br>Streamlit
     </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>MongoDB
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br>MongoDB
     </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br>Git
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/><br>Git
     </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br>GitHub
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/><br>GitHub
     </td>
   </tr>
 
-  <!-- Row 4 -->
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><br>VS Code
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/><br>VS Code
     </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/><br>Jupyter
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/><br>Jupyter
     </td>
-
-    <td align="center">
-      <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.png" width="40" height="40"/><br>OpenCV
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/><br>OpenCV
     </td>
-
-    <td align="center">
-      <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40"/><br>Hugging Face
+    <td align="center" width="96">
+      <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="45" height="45"/><br>Hugging Face
     </td>
-
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40"/><br>OpenAI
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/><br>Docker
     </td>
-
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br>Docker
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="45" height="45"/><br>OpenAI
     </td>
   </tr>
-
 </table>
 ---
 ## 📈 Weekly Development Breakdown
