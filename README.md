@@ -58,70 +58,116 @@
 <h2 align="center">🚀 Skills & Technologies</h2>
 
 <table align="center">
+
+  <!-- Row 1 -->
   <tr>
     <td align="center" width="100px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>C++
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br>C++
     </td>
+
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>Python
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br>Python
     </td>
+
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>SQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br>MySQL
     </td>
+
     <td align="center">
-      <img src="https://numpy.org/images/logo.svg" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>NumPy
+      <img src="https://numpy.org/images/logo.svg" width="40" height="40"/><br>NumPy
     </td>
+
     <td align="center">
-      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>Pandas
+      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" height="40"/><br>Pandas
     </td>
+
     <td align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"  style="transition:transform 0.3s;"
-onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>Matplot
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/><br>Matplotlib
     </td>
   </tr>
+
+  <!-- Row 2 -->
   <tr>
     <td align="center">
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="30" style="transition:transform 0.3s; margin-top:10px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>Seaborn
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" height="30"/><br>Seaborn
     </td>
+
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>TensorFlow
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/><br>TensorFlow
     </td>
+
     <td align="center">
-      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>Scikit-learn
+      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40"/><br>Scikit-learn
     </td>
+
     <td align="center">
-      <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>PyTorch
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br>PyTorch
     </td>
+
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br>JavaScript
     </td>
+
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>CSS3
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br>CSS3
     </td>
   </tr>
+
+  <!-- Row 3 -->
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>HTML5
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br>HTML5
     </td>
+
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>Bootstrap
+      <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" width="60" height="30"/><br>Flask
     </td>
+
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>MongoDB
+      <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" height="40"/><br>Streamlit
     </td>
+
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>Flask
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>MongoDB
     </td>
+
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>Streamlitt
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br>Git
     </td>
+
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /><br>github
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br>GitHub
     </td>
   </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><br>VS Code
+    </td>
+
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/><br>Jupyter
+    </td>
+
+    <td align="center">
+      <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.png" width="40" height="40"/><br>OpenCV
+    </td>
+
+    <td align="center">
+      <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40"/><br>Hugging Face
+    </td>
+
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40"/><br>OpenAI
+    </td>
+
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br>Docker
+    </td>
+  </tr>
+
 </table>
-
-
 ---
 ## 📈 Weekly Development Breakdown
 
