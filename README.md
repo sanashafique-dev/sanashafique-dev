@@ -142,15 +142,7 @@
     </td>
   </tr>
 </table>
-<h2 align="center">🚀 Skills & Technologies</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,html,css,js,mongodb,flask,tensorflow,pytorch,docker,git,github,vscode&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,sklearn,jupyter,opencv,streamlit,huggingface" />
-</p>
 ---
 
 ## 📈 Weekly Development Breakdown
