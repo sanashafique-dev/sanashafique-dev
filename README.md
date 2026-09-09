@@ -260,9 +260,11 @@ Reading         ███ 10%
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/sanashafique-dev/sanashafique-dev/output/github-contribution-grid-snake-dark.svg"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sanashafique-dev/sanashafique-dev@output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sanashafique-dev/sanashafique-dev@output/github-contribution-grid-snake.svg" />
+    <img alt="contribution-snake" src="https://cdn.jsdelivr.net/gh/sanashafique-dev/sanashafique-dev@output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 # 🌐 Connect With Me
