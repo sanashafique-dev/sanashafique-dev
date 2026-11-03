@@ -222,6 +222,16 @@ Reading         ███ 10%
 
 </td>
 <td width="50%">
+
+<h2>🖥️ DesktopGenie – AI Desktop Assistant</h2>
+
+<p>🤖 An AI-powered desktop assistant built with Streamlit to automate desktop tasks and interact with WhatsApp Desktop, making everyday workflows easier and smarter.</p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-8E75B2?style=flat-square"/>
+
 </td>
 </tr>
 </table>
