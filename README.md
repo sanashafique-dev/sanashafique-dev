@@ -215,25 +215,27 @@ Reading         ███ 10%
 <td width="50%">
 
 <h2>🌐 E-Commerce Web Scraping Engine</h2>
+
 <p>🛒 Automated data extraction from Amazon, Alibaba, Daraz, and eBay using Selenium and BeautifulSoup.</p>
 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/BeautifulSoup-8B4513?style=flat-square"/>
 
 </td>
+
 <td width="50%">
 
 <h2>🖥️ DesktopGenie – AI Desktop Assistant</h2>
 
-<p>🤖 An AI-powered desktop assistant built with Streamlit to automate desktop tasks and interact with WhatsApp Desktop, making everyday workflows easier and smarter.</p>
+<p>🤖 An AI-powered desktop assistant built with Streamlit to automate desktop tasks and interact with WhatsApp Desktop.</p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI-8E75B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Desktop%20Automation-6C63FF?style=flat-square"/>
 
 </td>
 </tr>
+
 </table>
 
 <p align="center">
