@@ -160,6 +160,28 @@ Reading         ███ 10%
 <table>
 <tr>
 <td width="50%">
+```html
+<tr>
+<td width="50%">
+
+## ⚡ Bijli Audit – Smart Electricity Bill Analyzer
+
+🔌 An AI-powered electricity bill auditing web application designed to help users analyze MEPCO electricity bills, detect billing discrepancies, understand tariff calculations, and estimate appliance electricity consumption.
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square"/>
+</p>
+
+🔗 [GitHub Repository](https://github.com/sanashafique-dev/Bijli-Audit-Web-App)  
+🌐 [Live Demo](https://bijli-audit-web.vercel.app/)
+
+</td>
+</tr>
+```
 
 ## 🚀 SpaceX Analytics Suite
 
