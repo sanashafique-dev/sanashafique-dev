@@ -160,53 +160,31 @@ Reading         ███ 10%
 <table>
 <tr>
 <td width="50%">
-```html
-<tr>
-<td width="50%">
 
-## ⚡ Bijli Audit – Smart Electricity Bill Analyzer
+<h2>⚡ Bijli Audit</h2>
+<p>🔌 An AI-powered electricity bill auditing application that analyzes MEPCO bills, detects billing discrepancies, explains tariff calculations, and estimates appliance electricity consumption.</p>
 
-🔌 An AI-powered electricity bill auditing web application designed to help users analyze MEPCO electricity bills, detect billing discrepancies, understand tariff calculations, and estimate appliance electricity consumption.
-
-<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square"/>
-</p>
-
-🔗 [GitHub Repository](https://github.com/sanashafique-dev/Bijli-Audit-Web-App)  
-🌐 [Live Demo](https://bijli-audit-web.vercel.app/)
-
-</td>
-</tr>
-```
-
-## 🚀 SpaceX Analytics Suite
-
-🛰️ An end-to-end analytics project exploring SpaceX missions, stock prices, and Starlink growth trends through data analysis and visualization.
 
 <p>
+🔗 <a href="https://github.com/sanashafique-dev/Bijli-Audit-Web-App">GitHub Repository</a><br>
+🌐 <a href="https://bijli-audit-web.vercel.app/">Live Demo</a>
+</p>
+
+</td>
+<td width="50%">
+
+<h2>🚀 SpaceX Analytics Suite</h2>
+<p>🛰️ An end-to-end analytics project exploring SpaceX missions, stock prices, and Starlink growth trends through data analysis and visualization.</p>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
-</p>
-
-</td>
-
-<td width="50%">
-
-## 🏡 Real Estate Intelligence System
-
-📊 Built predictive analytics and explored housing trends using real-world USA real estate datasets.
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-</p>
 
 </td>
 </tr>
@@ -214,28 +192,36 @@ Reading         ███ 10%
 <tr>
 <td width="50%">
 
-## 📱 Pakistan Social Media Usage Analysis 2026
+<h2>🏡 Real Estate Intelligence System</h2>
+<p>📊 Built predictive analytics and explored housing trends using real-world USA real estate datasets.</p>
 
-📈 Analyzed social media trends and user behavior using data science and machine learning techniques.
-
-<p>
-<img src="https://img.shields.io/badge/Data%20Science-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=flat-square"/>
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
 </td>
-
 <td width="50%">
 
-## 🌐 E-Commerce Web Scraping Engine
+<h2>📱 Pakistan Social Media Usage Analysis 2026</h2>
+<p>📈 Analyzed social media trends and user behavior using data science and machine learning techniques.</p>
 
-🛒 Automated data extraction from Amazon, Alibaba, Daraz, and eBay using Selenium and BeautifulSoup.
+<img src="https://img.shields.io/badge/Data%20Science-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=flat-square"/>
 
-<p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h2>🌐 E-Commerce Web Scraping Engine</h2>
+<p>🛒 Automated data extraction from Amazon, Alibaba, Daraz, and eBay using Selenium and BeautifulSoup.</p>
+
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/BeautifulSoup-8B4513?style=flat-square"/>
-</p>
 
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
